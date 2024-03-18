@@ -1,0 +1,5 @@
+#step:1 get input
+#step:2 getting values
+#step:3 Adding the conversation
+#step:4 print story
+

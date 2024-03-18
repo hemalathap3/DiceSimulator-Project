@@ -1,0 +1,11 @@
+git init # To initialize git
+git add . # To add projects in staging area
+git commit -m "initial commit" # To commit message
+git branch -M main # To work with branches 'M' means modify 
+
+git remote add origin https://github.com/hemalathap3/DiceSimulator-Project.git # To add the URL
+git push -u origin main # To Push 
+
+
+
+

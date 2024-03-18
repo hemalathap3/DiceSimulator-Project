@@ -1,0 +1,10 @@
+step:1 import string module
+step:2 define password contains upper
+step:3 Password contains any special symbols
+step:4 It contains length,symbols,upper
+step:5 Assuming uppercase is a boolean variable indicating whether to include uppercase letters
+step:6 check the length of combination list
+step:7 To pass the new value
+step:8 use range function
+step:9 change the length to generate newpassword
+step:10 print
